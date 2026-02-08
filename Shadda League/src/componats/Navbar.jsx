@@ -1,1 +1,2 @@
-fr
+
+import React from 'react'
